@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-composer require f-oris/easy-smartprogram
+composer require jzweb/baidu-miniapp
 ```
 
 ## 基本使用
